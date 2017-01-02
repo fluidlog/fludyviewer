@@ -5,7 +5,7 @@ $(document).ready()
 
   myGraph.config.bgElementType = "simple";
   myGraph.config.editGraphMode = false;
-  myGraph.appli = "SemanticNodes/lesfaitsdesmots/loglink7.1/";
+  myGraph.appli = "lesfaitsdesmots/loglink7.1/";
   myGraph.config.version = "loglink47";
   myGraph.config.viewerButtonLabel = "Launch Fludy map !";
   myGraph.externalStore.uri = "https://ldp.virtual-assembly.org:8443/2013/fludy/";
